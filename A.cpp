@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
 int n;
+cout<<"input a number: ";
 cin>>n;
 	while (n!=1){
 		if (n % 2 == 1){
