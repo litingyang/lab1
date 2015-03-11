@@ -1,8 +1,8 @@
-Script started on 2015年03月11日 (週三) 19時49分34秒
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwdgit config -l[2Pwhoami; pwd
+Script started on 2015年03月11日 (週三) 20時08分10秒
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config -l[1P -l[1Pwhoami; pwd
 F74032023
 /home/F74032023/lab1
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config -l
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwdgit config -l[1P -lg -l
 user.name=litingyang
 user.email=F74032023@mail.ncku.edu.tw
 core.repositoryformatversion=0
@@ -13,8 +13,8 @@ remote.origin.url=https://github.com/litingyang/lab1.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab 1.git
-bash: your: No such file or directory
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P account>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1P/lab1.gitl/lab1.giti/lab1.gitt/lab1.giti/lab1.gitn/lab1.gitg/lab1.gity/lab1.gita/lab1.gitn/lab1.gitg/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ exit
 
-Script done on 2015年03月11日 (週三) 19時50分04秒
+Script done on 2015年03月11日 (週三) 20時08分39秒
