@@ -1,8 +1,9 @@
-Script started on 2015年03月11日 (週三) 20時08分10秒
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config -l[1P -l[1Pwhoami; pwd
+Script started on 2015年03月11日 (週三) 20時52分09秒
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwd
 F74032023
 /home/F74032023/lab1
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwdgit config -l[1P -lg -l
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ 
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config -l
 user.name=litingyang
 user.email=F74032023@mail.ncku.edu.tw
 core.repositoryformatversion=0
@@ -13,8 +14,12 @@ remote.origin.url=https://github.com/litingyang/lab1.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P account>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1P/lab1.gitl/lab1.giti/lab1.gitt/lab1.giti/lab1.gitn/lab1.gitg/lab1.gity/lab1.gita/lab1.gitn/lab1.gitg/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P account>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1P/lab1.gitl/lab1.giti/lab1.gitt/lab1.giti/lab1.gitn/lab1.gitg/lab1.gity/lab1.gita/lab1.gitn/lab1.gitg/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 30, done.[K
+remote: Compressing objects:   4% (1/22)   [Kremote: Compressing objects:   9% (2/22)   [Kremote: Compressing objects:  13% (3/22)   [Kremote: Compressing objects:  18% (4/22)   [Kremote: Compressing objects:  22% (5/22)   [Kremote: Compressing objects:  27% (6/22)   [Kremote: Compressing objects:  31% (7/22)   [Kremote: Compressing objects:  36% (8/22)   [Kremote: Compressing objects:  40% (9/22)   [Kremote: Compressing objects:  45% (10/22)   [Kremote: Compressing objects:  50% (11/22)   [Kremote: Compressing objects:  54% (12/22)   [Kremote: Compressing objects:  59% (13/22)   [Kremote: Compressing objects:  63% (14/22)   [Kremote: Compressing objects:  68% (15/22)   [Kremote: Compressing objects:  72% (16/22)   [Kremote: Compressing objects:  77% (17/22)   [Kremote: Compressing objects:  81% (18/22)   [Kremote: Compressing objects:  86% (19/22)   [Kremote: Compressing objects:  90% (20/22)   [Kremote: Compressing objects:  95% (21/22)   [Kremote: Compressing objects: 100% (22/22)   [Kremote: Compressing objects: 100% (22/22), done.[K
+remote: Total 30 (delta 13), reused 22 (delta 5), pack-reused 0[K
+Unpacking objects:   3% (1/30)   Unpacking objects:   6% (2/30)   Unpacking objects:  10% (3/30)   Unpacking objects:  13% (4/30)   Unpacking objects:  16% (5/30)   Unpacking objects:  20% (6/30)   Unpacking objects:  23% (7/30)   Unpacking objects:  26% (8/30)   Unpacking objects:  30% (9/30)   Unpacking objects:  33% (10/30)   Unpacking objects:  36% (11/30)   Unpacking objects:  40% (12/30)   Unpacking objects:  43% (13/30)   Unpacking objects:  46% (14/30)   Unpacking objects:  50% (15/30)   Unpacking objects:  53% (16/30)   Unpacking objects:  56% (17/30)   Unpacking objects:  60% (18/30)   Unpacking objects:  63% (19/30)   Unpacking objects:  66% (20/30)   Unpacking objects:  70% (21/30)   Unpacking objects:  73% (22/30)   Unpacking objects:  76% (23/30)   Unpacking objects:  80% (24/30)   Unpacking objects:  83% (25/30)   Unpacking objects:  86% (26/30)   Unpacking objects:  90% (27/30)   Unpacking objects:  93% (28/30)   Unpacking objects:  96% (29/30)   Unpacking objects: 100% (30/30)   Unpacking objects: 100% (30/30), done.
 ]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ exit
 
-Script done on 2015年03月11日 (週三) 20時08分39秒
+Script done on 2015年03月11日 (週三) 21時09分40秒
