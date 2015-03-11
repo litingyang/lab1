@@ -1,83 +1,4 @@
-Script started on 2015年03月10日 (週二) 19時47分43秒
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwd
-F74032023
-/home/F74032023/lab1
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config ‐l
-git: 'config ‐l' is not a git command. See 'git --help'.
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ gitu[K config --global user.name ""l"i"t"i"n"g"y"a"n"g"
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config --global user.name "litingyang"[1@e[1@m[1@a[1@i[1@l[1P[1P[1P[1P "litingyang"[C[CFlitingyang"7litingyang"4litingyang"0litingyang"3litingyang"2litingyang"0litingyang"2litingyang"3litingyang"@litingyang"mlitingyang" [A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Calitingyang""[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cilitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.litingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnlitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cklitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Culitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.litingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Celitingyang"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdlitingyang"ulitingyang"[C.litingyang"[C[Cylitingyang"[C[C[Cwlitingyang"[C[C[C[C[1Pitingyang"[C[C[C[C[1Ptingyang"[C[C[C[C[1Pingyang"[C[C[C[C[1Pngyang"[C[C[C[C[1Pgyang"[C[C[C[C[1Pyang"[1Pang"[1Png"[1Pg"[1P"[1Pw"tw"
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git config --global user.email "F74032023@mail.ncku.eduu.tw"[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pname "litingyang"
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ‐l[K
-git: 'config ‐l' is not a git command. See 'git --help'.
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ wh[K[Kgit config ‐l[1Pl[K-l
-git: 'config -l' is not a git command. See 'git --help'.
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwd
-F74032023
-/home/F74032023/lab1
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ whoami; pwdgit config -l
-git: 'config -l' is not a git command. See 'git --help'.
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git --help
-usage: git [--version] [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [-c name=value] [--help]
-           <command> [<args>]
-
-The most commonly used git commands are:
-   add        Add file contents to the index
-   bisect     Find by binary search the change that introduced a bug
-   branch     List, create, or delete branches
-   checkout   Checkout a branch or paths to the working tree
-   clone      Clone a repository into a new directory
-   commit     Record changes to the repository
-   diff       Show changes between commits, commit and working tree, etc
-   fetch      Download objects and refs from another repository
-   grep       Print lines matching a pattern
-   init       Create an empty git repository or reinitialize an existing one
-   log        Show commit logs
-   merge      Join two or more development histories together
-   mv         Move or rename a file, a directory, or a symlink
-   pull       Fetch from and merge with another repository or a local branch
-   push       Update remote refs along with associated objects
-   rebase     Forward-port local commits to the updated upstream head
-   reset      Reset current HEAD to the specified state
-   rm         Remove files from the working tree and from the index
-   show       Show various types of objects
-   status     Show the working tree status
-   tag        Create, list, delete or verify a tag object signed with GPG
-
-See 'git help <command>' for more information on a specific command.
-]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ git help git confir[Kg
-[?1049h[?1h=GIT(1)                            Git Manual                            GIT(1)[m
-[m
-[1mNAME[0m[m
-       git - the stupid content tracker[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [--version] [--help] [-c <name>=<value>][m
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][m
-           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare][m
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][m
-           <command> [<args>][m
-[m
-[1mDESCRIPTION[0m[m
-       Git is a fast, scalable, distributed revision control system with an[m
-       unusually rich command set that provides both high-level operations and[m
-       full access to internals.[m
-[m
-       See [1mgittutorial[0m(7) to get started, then see [1mEveryday[0m [1mGit[0m[1] for a[m
-       useful minimum set of commands, and "man git-commandname" for[m
-       documentation of each command. CVS users may also want to read [1mgitcvs-[0m[m
-       [1mmigration[0m(7). See the [1mGit[0m [1mUser’s[0m [1mManual[0m[2] for a more in-depth[m
-       introduction.[m
-[m
-[7m Manual page git(1) line 1 (press h for help or q to quit)[27m[K[K       The [4m<command>[24m is either a name of a Git command (see below) or an alias[m
-[7m Manual page git(1) line 2 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$  git clone https://github.com/<your github account>/la b1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyour github account>/lab1[1P.git[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cour github account>/lab1.[1Pgit[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cur github account>/lab1.g[1Pit[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr github account>/lab1.gi[1Pt[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C github account>/lab1.git[K[A]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgithub account>/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P account>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1P/lab1.gitl/lab1.giti/lab1.gitt/lab1.giti/lab1.gitn/lab1.gitg/lab1.gity/lab1.gita/lab1.gitn/lab1.gitg/lab1.git
-Cloning into 'lab1'...
-remote: Counting objects: 3, done.[K
-remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
-Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Script started on 2015年03月11日 (週三) 19時41分58秒
 ]0;F74032023@2015cpp: ~/lab1F74032023@2015cpp:~/lab1$ exit
 
-Script done on 2015年03月10日 (週二) 20時11分11秒
+Script done on 2015年03月11日 (週三) 19時42分03秒
